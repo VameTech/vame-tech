@@ -47,7 +47,7 @@
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
-        
+          <li><a href="#pricing">Prices</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -396,7 +396,7 @@
              
               </ul>
               <div class="btn-wrap">
-              <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a><a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a>
               </div>
             </div>
           </div>
