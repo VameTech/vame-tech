@@ -27,11 +27,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Techie - v3.0.0
-  * Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
+
   ======================================================== -->
 </head>
 
@@ -42,7 +38,7 @@
     <div class="container d-flex align-items-center">
       
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto"><img src="assets/img/vame.png" alt="" class="img-fluid" id="logo"></a>
+      <a href="index.php" class="logo me-auto"><img src="assets/img/vame.png" alt="" class="img-fluid" id="logo"></a>
      
       <nav class="nav-menu d-none d-lg-block">
         <ul>
