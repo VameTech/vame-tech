@@ -361,49 +361,50 @@
 
         <div class="section-title">
           <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+         
         </div>
 
         <div class="row">
 
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
-              <h3>small bussiness</h3>
-              <h4><sup>Tzs</sup>480,000</h4>
+              <h3>Websites</h3>
+              <h4><sup>Tzs</sup>480,000-790,000</h4>
               <ul>
-                <li>5 pages Responsive Website</li>
-                <li>5 Seo keywords</li>
+                <li>5-8 pages Responsive Website</li>
+                <li>5-8 Seo keywords</li>
                 <li>Submition to Google Search Engine</li>
-                <li class="na">Google analytics</li>
-                <a href="https://wa.me/255756666884"><img class="sap" src="assets/img/sap.jpg" ></a>
+                <li>Google analytics</li>
+             
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="box featured">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+              <h3>Penetration Testing</h3>
+              <h4><sup>Tzs</sup>500,000</h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>Web security Testing</li>
+                <li>Bug bounty</li>
+                <li>Client side security testing</li>
+                <li>Network services Testing</li>
+                <li>Physical Testing</li>
+             
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a><a href="#" class="btn-buy">Buy Now</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h3>Android App</h3>
+              <h4><sup>TZS</sup>500,000</h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -412,25 +413,26 @@
                 <li>Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
             <div class="box">
-              <span class="advanced">Advanced</span>
-              <h3>Ultimate</h3>
-              <h4><sup>$</sup>49<span> / month</span></h4>
+              <span class="advanced">Systems</span>
+              
+              <h4><sup>Tzs</sup>1,500,000</h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Loan management System</li>
+                <li>School Management System</li>
+                <li>Shop management System</li>
+                <li>SEO</li>
+                <li>Training and support</li>
+                
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a>
               </div>
             </div>
           </div>
