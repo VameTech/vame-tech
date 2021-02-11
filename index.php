@@ -368,14 +368,14 @@
 
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h3>small bussiness</h3>
+              <h4><sup>Tzs</sup>480,000</h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>5 pages Responsive Website</li>
+                <li>5 Seo keywords</li>
+                <li>Submition to Google Search Engine</li>
+                <li class="na">Google analytics</li>
+                <a href="https://wa.me/255756666884"><img src="sap.jpg" ></a>
               </ul>
               <div class="btn-wrap">
                 <a href="#" class="btn-buy">Buy Now</a>
