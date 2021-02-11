@@ -375,7 +375,7 @@
                 <li>5 Seo keywords</li>
                 <li>Submition to Google Search Engine</li>
                 <li class="na">Google analytics</li>
-                <a href="https://wa.me/255756666884"><img src="sap.jpg" ></a>
+                <a href="https://wa.me/255756666884"><img src="assets/img/sap.jpg" ></a>
               </ul>
               <div class="btn-wrap">
                 <a href="#" class="btn-buy">Buy Now</a>
