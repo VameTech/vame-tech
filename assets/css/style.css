@@ -6,6 +6,11 @@
   position: relative;
   left: -10px;
 }
+#sap{
+  height: 50px;
+  width: 50px;
+
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
