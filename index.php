@@ -319,13 +319,13 @@
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/loanmans.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/jhotel.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Loanmans</h4>
+                <h4>Jhotel</h4>
              
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/loanmans.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/jhotel.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
