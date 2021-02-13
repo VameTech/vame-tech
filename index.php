@@ -487,7 +487,7 @@
         <div class="row">
 
           <div class="col-lg-6 ">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d63391.75980114927!2d39.20452392310063!3d-6.771680713100702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e4!4m5!1s0x185c4e9e55555555%3A0x31c34ce3703cc9eb!2sCollege%20of%20Information%20and%20Communication%20Technologies%20(CoICT)%20-%20University%20of%20Dar%20es%20salaam%2C%20Dar%20es%20Salaam!3m2!1d-6.771767199999999!2d39.2395436!4m4!1s0x0%3A0x31c34ce3703cc9eb!3m2!1d-6.771767199999999!2d39.2395436!5e0!3m2!1sen!2stz!4v1613253887179!5m2!1sen!2stz" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+           <iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d63391.75980114927!2d39.20452392310063!3d-6.771680713100702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e4!4m5!1s0x185c4e9e55555555%3A0x31c34ce3703cc9eb!2sCollege%20of%20Information%20and%20Communication%20Technologies%20(CoICT)%20-%20University%20of%20Dar%20es%20salaam%2C%20Dar%20es%20Salaam!3m2!1d-6.771767199999999!2d39.2395436!4m4!1s0x0%3A0x31c34ce3703cc9eb!3m2!1d-6.771767199999999!2d39.2395436!5e0!3m2!1sen!2stz!4v1613253887179!5m2!1sen!2stz" width="500" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
           </div>
 
           <div class="col-lg-6">
