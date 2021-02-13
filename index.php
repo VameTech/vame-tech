@@ -367,9 +367,9 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="box">
+            <div class="box featured">
               <h3>Websites</h3>
-              <h4><sup>Tzs</sup>480,000-790,000</h4>
+              <h4><sup>Tzs</sup>480k-790k</h4>
               <ul>
                 <li>5-8 pages Responsive Website</li>
                 <li>5-8 Seo keywords</li>
@@ -402,7 +402,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="box">
+            <div class="box featured">
               <h3>Android App</h3>
               <h4><sup>TZS</sup>500,000</h4>
               <ul>
@@ -419,8 +419,8 @@
           </div>
 
           <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-            <div class="box">
-              <span class="advanced">Systems</span>
+            <div class="box featured">
+              <h3>Systems</h3>
               
               <h4><sup>Tzs</sup>1,500,000</h4>
               <ul>
