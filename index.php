@@ -66,7 +66,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Bettter Digital Experience With Vametech</h1>
-          <h2>We are team of talanted designers making websites,mobile apps also dealing with penetration testing on differnet computer systems</h2>
+          <h2>We are team of talented designers making websites, mobile apps and also dealing with penetration testing on differnet computer systems</h2>
           <div><a href="#pricing" class="btn-get-started scrollto">Get Started</a></div>
         </div>
         <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
@@ -310,7 +310,7 @@
                 
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/osmmas3.png" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/osmmas3.png" data-gall="portfolioGallery" class="venobox" title="Osmmas"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -332,7 +332,7 @@
              
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/osmmas2.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/osmmas2.png" data-gall="portfolioGallery" class="venobox" title="Osmmas"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -462,7 +462,7 @@
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
               <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Coict Kijitonyama, Dar es salaam, Tanzania</p>
             </div>
           </div>
 
@@ -470,7 +470,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@example.com</p>
+              <p>contact@vametech.com</p>
             </div>
           </div>
 
@@ -478,7 +478,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+255 692041830</p>
             </div>
           </div>
 
@@ -487,7 +487,7 @@
         <div class="row">
 
           <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d63391.75980114927!2d39.20452392310063!3d-6.771680713100702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e4!4m5!1s0x185c4e9e55555555%3A0x31c34ce3703cc9eb!2sCollege%20of%20Information%20and%20Communication%20Technologies%20(CoICT)%20-%20University%20of%20Dar%20es%20salaam%2C%20Dar%20es%20Salaam!3m2!1d-6.771767199999999!2d39.2395436!4m4!1s0x0%3A0x31c34ce3703cc9eb!3m2!1d-6.771767199999999!2d39.2395436!5e0!3m2!1sen!2stz!4v1613253887179!5m2!1sen!2stz" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
           </div>
 
           <div class="col-lg-6">
