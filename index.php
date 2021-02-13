@@ -42,7 +42,7 @@
      
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
@@ -392,7 +392,7 @@
                 <li>Bug bounty</li>
                 <li>Client side security testing</li>
                 <li>Network services Testing</li>
-                <li>Physical Testing</li>
+               
              
               </ul>
               <div class="btn-wrap">
@@ -406,11 +406,11 @@
               <h3>Android App</h3>
               <h4><sup>TZS</sup>500,000</h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Portifolio Apps</li>
+                <li>Music Apps </li>
+                <li>Social Apps</li>
+                <li>Web intergration</li>
+               
               </ul>
               <div class="btn-wrap">
               <a href="https://wa.me/255692041830" class="btn-buy">Contact Us</a>
