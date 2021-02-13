@@ -54,7 +54,6 @@
        
       </nav><!-- .nav-menu -->
 
-      <div><a href="#pricing" class="btn-get-started scrollto">Get Started</a></div>
       
     </div>
   </header><!-- End Header -->
