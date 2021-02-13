@@ -54,6 +54,7 @@
        
       </nav><!-- .nav-menu -->
 
+
       
     </div>
   </header><!-- End Header -->
@@ -112,7 +113,7 @@
 
         <div class="section-title">
           <h2>Services</h2>
-         
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
@@ -125,7 +126,7 @@
                 <i class="bx bxl-dribbble"></i>
               </div>
               <h4><a href="">Web Design </a></h4>
-           
+              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
 
@@ -138,7 +139,7 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="">Web Development</a></h4>
-           
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
 
@@ -151,7 +152,7 @@
                 <i class="bx bx-tachometer"></i>
               </div>
               <h4><a href="">Graphic Design</a></h4>
-              
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
 
@@ -164,7 +165,7 @@
                 <i class="bx bx-layer"></i>
               </div>
               <h4><a href="">Marketing</a></h4>
-            
+              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
 
@@ -177,7 +178,7 @@
                 <i class="bx bx-slideshow"></i>
               </div>
               <h4><a href="">Penetration testing</a></h4>
-              
+              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
           </div>
 
@@ -190,7 +191,7 @@
                 <i class="bx bx-arch"></i>
               </div>
               <h4><a href="">System Development</a></h4>
-             
+              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
 
@@ -337,7 +338,19 @@
             </div>
           </div>
 
-
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/loanmans.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Osmmas</h4>
+             
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/loanmans.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
 
        
 
