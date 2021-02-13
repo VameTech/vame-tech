@@ -541,7 +541,7 @@
               Tanzania <br><br>
               <strong>Phone:</strong> +255 692041830<br>
               <strong>Email:</strong> info@vametech.com<br>
-              <strong>Whatsapp:</strong><a href="https://wa.me/255692041830"></a><br>
+              <strong>Whatsapp:</strong><a href="https://wa.me/255692041830">0692041830</a><br>
 
             </p>
           </div>
