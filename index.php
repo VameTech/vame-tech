@@ -49,12 +49,12 @@
           <li><a href="#team">Team</a></li>
           <li><a href="#pricing">Prices</a></li>
           <li><a href="#contact">Contact</a></li>
-          <div><a href="#pricing" class="btn-get-started scrollto">Get Started</a></div>
+         
         </ul>
        
       </nav><!-- .nav-menu -->
 
-    
+      <div><a href="#pricing" class="btn-get-started scrollto">Get Started</a></div>
       
     </div>
   </header><!-- End Header -->
