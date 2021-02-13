@@ -49,10 +49,12 @@
           <li><a href="#team">Team</a></li>
           <li><a href="#pricing">Prices</a></li>
           <li><a href="#contact">Contact</a></li>
+          <div><a href="#pricing" class="btn-get-started scrollto">Get Started</a></div>
         </ul>
+       
       </nav><!-- .nav-menu -->
 
-      <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
+    
       
     </div>
   </header><!-- End Header -->
@@ -65,7 +67,7 @@
         <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Bettter Digital Experience With Vametech</h1>
           <h2>We are team of talanted designers making websites,mobile apps also dealing with penetration testing on differnet computer systems</h2>
-          <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
+          <div><a href="#pricing" class="btn-get-started scrollto">Get Started</a></div>
         </div>
         <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
           <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
@@ -318,20 +320,7 @@
 
 
           
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/jhotel.png" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Jhotel</h4>
-             
-              </div>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/jhotel.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
+        
        
     
 
@@ -344,6 +333,20 @@
               </div>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/osmmas2.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/loanmans.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Osmmas</h4>
+             
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/loanmans.png" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -374,7 +377,7 @@
               <ul>
                 <li>5-8 pages Responsive Website</li>
                 <li>5-8 Seo keywords</li>
-                <li>Submition to Google Search Engine</li>
+                <li>Submition to  Search Engine</li>
                 <li>Google analytics</li>
              
               </ul>
