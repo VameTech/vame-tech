@@ -98,6 +98,7 @@
               <li><i class="icofont-check-circled"></i> Mobile App.</li>
               <li><i class="icofont-check-circled"></i> Web services.</li>
               <li><i class="icofont-check-circled"></i> computer Programs.</li>
+              <li><i class="icofont-check-circled"></i> Management Systems.</li>
             </ul>
            <button class="btn btn-primary">Read More</button>
           </div>
