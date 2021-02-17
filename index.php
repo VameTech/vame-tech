@@ -237,7 +237,7 @@
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
            <img src="assets/img/ericlwanda.jpg" class="testimonial-img" alt=""> 
-            <h3>Erick Pierre</h3>
+            <h3>Erick Lwanda</h3>
             <h4>Chief Operating Officer (COO)</h4>
           </div>
 
