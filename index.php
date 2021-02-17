@@ -92,15 +92,14 @@
             <p class="font-italic">
             Vametech is an organization created to carter for the needs of technology industry advancement in this century
             based in Dar es salaam Tanzania dealing whith development of different solutions on different kind of problems 
-            in all human aspects in terms of software and hardware in any kind of platform., and
-            computer Programs
+            in all human aspects in terms of software and hardware in any kind of platform.
             </p>
             <ul>
               <li><i class="icofont-check-circled"></i> Mobile App.</li>
               <li><i class="icofont-check-circled"></i> Web services.</li>
               <li><i class="icofont-check-circled"></i> computer Programs.</li>
             </ul>
-           
+           <button class="btn btn-primary">Read More</button>
           </div>
         </div>
 
@@ -128,7 +127,7 @@
                 <i class="bx bxl-dribbble"></i>
               </div>
               <h4><a href="">Web Design </a></h4>
-              <p> web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization</p>
+              <p> Web graphic design, user interface design, authoring, including standardised code and proprietary software, user experience design, and search engine optimization</p>
             </div>
           </div>
 
@@ -141,7 +140,7 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="">Web Development</a></h4>
-              <p>Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications, electronic businesses, and social network services</p>
+              <p>Development of Web sites for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications, electronic businesses, and social network services</p>
             </div>
           </div>
 
@@ -154,7 +153,7 @@
                 <i class="bx bx-tachometer"></i>
               </div>
               <h4><a href="">Graphic Design</a></h4>
-              <p>Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.</p>
+              <p>Creation of visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.</p>
             </div>
           </div>
 
@@ -167,7 +166,7 @@
                 <i class="bx bx-layer"></i>
               </div>
               <h4><a href="">Marketing</a></h4>
-              <p>Marketing refers to activities a company undertakes to promote the buying or selling of a product, service, or good</p>
+              <p>Promote the buying or selling of a product, service, or good</p>
             </div>
           </div>
 
