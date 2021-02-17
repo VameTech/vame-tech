@@ -115,7 +115,7 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>we provide quality services to carter all the needs and ease the working conditions of any organization.</p>
         </div>
 
         <div class="row">
@@ -128,7 +128,7 @@
                 <i class="bx bxl-dribbble"></i>
               </div>
               <h4><a href="">Web Design </a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p> web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization</p>
             </div>
           </div>
 
@@ -141,7 +141,7 @@
                 <i class="bx bx-file"></i>
               </div>
               <h4><a href="">Web Development</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications, electronic businesses, and social network services</p>
             </div>
           </div>
 
@@ -154,7 +154,7 @@
                 <i class="bx bx-tachometer"></i>
               </div>
               <h4><a href="">Graphic Design</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.</p>
             </div>
           </div>
 
@@ -167,7 +167,7 @@
                 <i class="bx bx-layer"></i>
               </div>
               <h4><a href="">Marketing</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p>Marketing refers to activities a company undertakes to promote the buying or selling of a product, service, or good</p>
             </div>
           </div>
 
@@ -180,7 +180,7 @@
                 <i class="bx bx-slideshow"></i>
               </div>
               <h4><a href="">Penetration testing</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p>Penetration testing, also called pen testing or ethical hacking, is the practice of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit. Penetration testing can be automated with software applications or performed manually.</p>
             </div>
           </div>
 
@@ -193,7 +193,7 @@
                 <i class="bx bx-arch"></i>
               </div>
               <h4><a href="">System Development</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <p>Systems development is the process of defining, designing, testing and implementing a new software application or program. It can include the internal development of customized systems, the creation of database systems or the acquisition of third party developed software</p>
             </div>
           </div>
 
